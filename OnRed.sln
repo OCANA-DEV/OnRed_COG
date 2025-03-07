@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnRed", "OnRed\OnRed.csproj", "{FC7F7F43-720E-408F-8F2E-6478C5C298C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliotecas", "Bibliotecas\Bibliotecas.csproj", "{35257EE6-E99B-453B-B896-2CD5F66FBF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7F7F43-720E-408F-8F2E-6478C5C298C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7F7F43-720E-408F-8F2E-6478C5C298C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7F7F43-720E-408F-8F2E-6478C5C298C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7F7F43-720E-408F-8F2E-6478C5C298C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35257EE6-E99B-453B-B896-2CD5F66FBF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35257EE6-E99B-453B-B896-2CD5F66FBF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35257EE6-E99B-453B-B896-2CD5F66FBF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35257EE6-E99B-453B-B896-2CD5F66FBF77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D213DFB-45ED-4200-B74D-0D0C94C82584}
+	EndGlobalSection
+EndGlobal
